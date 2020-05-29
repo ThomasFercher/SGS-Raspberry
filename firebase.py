@@ -9,7 +9,7 @@ import Adafruit_DHT
 #Firebase Init
 
 config = {     
-  "apiKey": "AIzaSyAeTF-VH5vxA0-ssHg4rMcjIodzBnnPvPw",
+  "apiKey": "",
   "authDomain": "smartgrowsystem-sgs.firebaseapp.com",
   "databaseURL": "https://smartgrowsystem-sgs.firebaseio.com/",
   "storageBucket": "smartgrowsystem-sgs.appspot.com"
